@@ -8,3 +8,5 @@ Some paramenets such as loop size, number of iterations were calculated using br
 In the clflush file, the code is written to vary the number of cache misses. With the help of using Embedded Clflush instructions,
 the elements of the declared array are removed respectively from the cache memory and then reloaded to vary the number of cache misses.
 (Explained more in the code)
+
+The Malware model helps with classification of various malwares with a good accuracy and adversarial attack will help to generate the attacks on the malware model degrading the perfromance of the model and the malware model can be made more robust with adversarial training.
